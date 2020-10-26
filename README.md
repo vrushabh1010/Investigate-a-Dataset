@@ -1,4 +1,4 @@
-# Investigate-a-Dataset
+# Investigate a Dataset
 Udacity Data Analyst Nanodegree - Project 2
 
 ## Project Overview
